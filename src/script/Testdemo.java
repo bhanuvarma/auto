@@ -1,7 +1,7 @@
 package script;
 
-import org.junit.Test;
 import org.testng.Reporter;
+import org.testng.annotations.Test;
 
 import generic.BaseTest;
 
