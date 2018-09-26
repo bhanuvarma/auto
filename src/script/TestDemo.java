@@ -5,10 +5,10 @@ import org.testng.annotations.Test;
 
 import generic.BaseTest;
 
-public class Testdemo extends BaseTest{
+public class TestDemo extends BaseTest{
 	@Test
 	public void testA() {
-		Reporter.log("testA",true);
+		Reporter.log("test",true);
 	}
 
 
